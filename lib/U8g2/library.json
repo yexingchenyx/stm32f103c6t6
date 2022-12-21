@@ -1,0 +1,7 @@
+{
+    "build":
+    {
+        "includeDir": "src/clib",
+        "srcDir": "src/clib"
+    }
+}
